@@ -1,6 +1,6 @@
 import requests
 
-SHEETY_PRICES_ENDPOINT = "https://api.sheety.co/48d0c5e54a26cbeaae3e074bc543c254/flightDealFinder/prices"
+SHEETY_PRICES_ENDPOINT = "Your URL"
 
 
 class DataManager:
