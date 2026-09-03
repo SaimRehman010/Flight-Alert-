@@ -2,7 +2,7 @@ from datetime import timedelta
 from serpapi import GoogleSearch
 from flight_data import FlightData
 
-SERPAPI_KEY = "843758f96282bfce3e5792e6d1620f60204a5b0398e0e944e76a97ef449b6daa"
+SERPAPI_KEY = "Your Api"
 
 # Primary airport codes that Google Flights accepts reliably
 IATA_CODES = {
