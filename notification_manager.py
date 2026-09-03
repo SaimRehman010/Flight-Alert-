@@ -1,7 +1,7 @@
 import smtplib
 
-MY_EMAIL = "sp25-bcs-122@cuilahore.edu.pk"
-MY_PASSWORD = "tpaq oeof tmwb kpio"
+MY_EMAIL = "Your Email"
+MY_PASSWORD = "Your Pass"
 
 
 class NotificationManager:
